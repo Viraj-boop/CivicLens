@@ -189,3 +189,5 @@ Press `/` to focus the search from anywhere. Toggle dark mode in the header. Exp
 ---
 
 Built with React 18, Vite, TypeScript, Tailwind, shadcn/ui, Recharts, Lovable Cloud (Supabase), and Lovable AI (Gemini 2.5 Flash).
+#   C I V I C L E N S S  
+ 
